@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://db:exploresmartquiz@1@cluster0.0keng.mongodb.net/db?retryWrites=true&w=majority"
+}
